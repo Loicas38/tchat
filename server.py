@@ -19,7 +19,7 @@ def reception(client):
 
         # perte de connexion
         if not requete_client:
-            print("colse")
+            print("fin de la conversation")
             break
 
 
